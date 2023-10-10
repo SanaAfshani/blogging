@@ -1,4 +1,4 @@
-# Bloging Platform
+# Blogging Platform
 
 Our blogging platform is a dynamic and user-friendly web application that empowers users to share their thoughts, stories, and experiences with a global audience. Similar to popular social media platforms like Twitter
 
@@ -25,6 +25,7 @@ In the age of digital communication and social media, our blogging platform emer
 List the technologies and libraries/frameworks used in this project. For example:
 
 - [Next.js](https://nextjs.org/)
+- [typescript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React](https://reactjs.org/)
 - [React-query](https://tanstack.com/query/v3/)
@@ -50,7 +51,7 @@ Step-by-step instructions on how to install and run this project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/SanaAfshani/blogging.git
    
 2. Install node/modules:
     
