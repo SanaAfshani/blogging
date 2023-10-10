@@ -38,6 +38,9 @@
     "tailwindcss": "^1.4.6",
     "typescript": "^3.9.5"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "keywords": [
     "blog",
     "nextjs",
