@@ -39,7 +39,7 @@
     "typescript": "^3.9.5"
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "keywords": [
     "blog",
