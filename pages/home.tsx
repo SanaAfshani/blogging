@@ -70,7 +70,7 @@ export async function getStaticProps() {
         props: {
             dehydratedState: dehydrate(queryClient),
         },
-        unstable_revalidate: 60,
+        revalidate: 60,
     };
 }
 
