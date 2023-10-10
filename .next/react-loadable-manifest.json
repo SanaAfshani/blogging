@@ -1,0 +1,80 @@
+{
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "name": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js",
+      "publicPath": "static/chunks/0.js"
+    }
+  ],
+  "./nav": [
+    {
+      "id": "./components/layout/nav.tsx",
+      "name": "./components/layout/nav.tsx",
+      "file": "static/chunks/3.js",
+      "publicPath": "static/chunks/3.js"
+    },
+    {
+      "id": "./components/layout/styles/nav.module.css",
+      "name": "./components/layout/styles/nav.module.css",
+      "file": "static/chunks/3.js",
+      "publicPath": "static/chunks/3.js"
+    },
+    {
+      "id": "./hooks/useMedia.tsx",
+      "name": "./hooks/useMedia.tsx",
+      "file": "static/chunks/3.js",
+      "publicPath": "static/chunks/3.js"
+    },
+    {
+      "id": "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/layout/styles/nav.module.css",
+      "name": "./node_modules/css-loader/dist/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/index.js?!./components/layout/styles/nav.module.css",
+      "file": "static/chunks/3.js",
+      "publicPath": "static/chunks/3.js"
+    },
+    {
+      "id": "./svgs/envelope.svg",
+      "name": "./svgs/envelope.svg",
+      "file": "static/chunks/3.js",
+      "publicPath": "static/chunks/3.js"
+    },
+    {
+      "id": "./svgs/hashtag.svg",
+      "name": "./svgs/hashtag.svg",
+      "file": "static/chunks/3.js",
+      "publicPath": "static/chunks/3.js"
+    },
+    {
+      "id": "./svgs/home.svg",
+      "name": "./svgs/home.svg",
+      "file": "static/chunks/3.js",
+      "publicPath": "static/chunks/3.js"
+    },
+    {
+      "id": "./svgs/notification.svg",
+      "name": "./svgs/notification.svg",
+      "file": "static/chunks/3.js",
+      "publicPath": "static/chunks/3.js"
+    },
+    {
+      "id": "./svgs/settings.svg",
+      "name": "./svgs/settings.svg",
+      "file": "static/chunks/3.js",
+      "publicPath": "static/chunks/3.js"
+    },
+    {
+      "id": "./svgs/tweet.svg",
+      "name": "./svgs/tweet.svg",
+      "file": "static/chunks/3.js",
+      "publicPath": "static/chunks/3.js"
+    }
+  ],
+  "~/components/shared/modal/modal": [
+    {
+      "id": "./components/shared/modal/modal.tsx",
+      "name": "./components/shared/modal/modal.tsx",
+      "file": "static/chunks/4.js",
+      "publicPath": "static/chunks/4.js"
+    }
+  ]
+}
